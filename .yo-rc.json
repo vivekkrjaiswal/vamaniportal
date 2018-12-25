@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "vamaniportal",
+    "packageName": "io.vamani.application",
+    "packageFolder": "io/vamani/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "OThlMzJlODhhMzE2NTdlOTcyNGY2ODBiZmMwYzc3MTE5Mzg4NTRmMDIyMzQ3YzhjOGFmMTE5YzMyYzU4NjczNmRiMmNjOWU5MjNjNzc0NGZkYTg3NDgyMmNhYzdiMzA3MTRkYzNlYWQ1Yzk4NzdkZmNlY2I4ZjQ2NjkzOTdjZDQ=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "vivekkrjaiswal",
+  "repository-name": "vamaniportal"
+}
